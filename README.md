@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://lucid-darwin-2328b7.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ProjectXfire/devChallenges_My_Inputs_Styles">
       Solution
     </a>
     <span> | </span>
