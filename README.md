@@ -1,3 +1,62 @@
+<!-- Please update value in the {}  -->
+
+<h1 align="center">My Inputs Styles</h1>
+
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+This project show a list of inputs styles than you can select according to your needs.
+It was build in react, using styled-components for the different types of inputs.
+Styled-components help me a little more easier to change the style according to the attribute, using props to validate each case.
+I have learned a little more about style-component.
+For the icon I have use the library React-Icons, to use icons just put the correct name according to the documentation.
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [React](https://reactjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp) was to build an application to complete the given user stories.
+
+## How To Use ----------------->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
